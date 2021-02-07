@@ -1,6 +1,6 @@
 galaxy_info:
   author: Emmanuel Eyoma
-  description: myswl role to install database tier for application
+  description: mysql role to install database tier for application
   company: CloudSparkTM
 
   # If the issue tracker for your role is not on github, uncomment the
